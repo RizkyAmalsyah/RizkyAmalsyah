@@ -20,7 +20,7 @@
 
 ### 📈 GitHub Stats
 
-| <a href="https://github.com/RizkyAmalsyah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RizkyAmalsyah&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Fer github stats" /></a> | <a href="https://github.com/RizkyAmalsyah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyAmalsyah&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=joshxfi&theme=vue-dark&hide_border=true' /> | <a href="https://github.com/RizkyAmalsyah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyAmalsyah&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ---
