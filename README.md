@@ -14,7 +14,7 @@
 ### 📫 Connect with Me
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%40rizky__amalsyah-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rizky_amalsyah)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Rizky%20Amalsyah-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rizky-amalsyah/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Rizky%20Amalsyah-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rizky-amalsyah17/)
 
 ---
 
