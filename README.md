@@ -1,20 +1,47 @@
 ### Hi there, I'm Rizky 👋
 
+---
+
 ## About Me
 
-- 🔭 Currently pursuing my studies at the University of Sriwijaya, delving into the world of technology and innovation.
-- 🌱 Passionate about continuous learning and always eager to explore new skills and knowledge.
+- 🎓 **Education**: Pursuing studies at **University of Sriwijaya** in technology and innovation.
+- 🌱 **Passionate Learner**: Always eager to explore new skills and knowledge.
+- 🏸 **Fun Fact**: You’ll often find me on the badminton court when I’m not coding!
 - 🥅 **2024 Goals**: Strive for excellence, build impactful projects, and expand my professional network!
-- ⚡ **Fun Fact**: When I'm not coding, you can probably find me on the badminton court, smashing birdies and staying active!
 
-### Connect with me:
+---
 
-[<img align="left" alt="Instagram" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png"/>][instagram]
+### 📫 Connect with Me
 
-<br/>
-<br/>
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%40rizky__amalsyah-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rizky_amalsyah)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Rizky%20Amalsyah-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizky-amalsyah/)
 
-<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=RizkyAmalsyah&theme=vue-dark&hide_border=true' />
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyAmalsyah&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+---
 
-[instagram]: https://www.instagram.com/rizky_amalsyah/
+### 📈 GitHub Stats
+
+| <a href="https://github.com/RizkyAmalsyah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RizkyAmalsyah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rizky's GitHub Stats" /></a> | <a href="https://github.com/RizkyAmalsyah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyAmalsyah&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+---
+
+### 🚀 Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+**Commit Explanation**: You might notice fewer commits in the overview. This summary counts recent contributions, while the stats here include all-time activity. To increase your public stats:
+
+1. Regularly contribute to repositories.
+2. Engage with open-source projects.
+3. Share project updates and commits publicly!
+
+---
+
+Thank you for visiting! 😊
