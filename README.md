@@ -7,7 +7,7 @@
 - 🎓 **Education**: Currently a student at **University of Sriwijaya**, focusing on technology and innovation.
 - 🌱 **Passionate Learner**: Excited to dive into new knowledge, explore innovative ideas, and expand my skill set.
 - 🏸 **Fun Fact**: When I'm not coding, you’ll find me on the badminton court!
-- 🥅 **2024 Goals**: Aim for excellence, create impactful projects, and grow my professional network!
+- 🥅 **2025 Goals**: Aim for excellence, create impactful projects, and grow my professional network!
 
 ---
 
