@@ -1,4 +1,4 @@
-### Hi there, I'm Rizky! 👋
+### Hi there, I am Rizky! 👋
 
 ---
 
