@@ -1,17 +1,22 @@
-### Hi there, I'm Rizky! 👋
+<h1 align="center">Hi there, I'm Rizky! 👋</h1>
+
+<p align="center">
+  🎓 Fresh Graduate | Fullstack Web Developer | Lifelong Learner
+</p>
 
 ---
 
-## 📝 About Me
+## 🧑‍🎓 About Me
 
-- 🎓 **Education**: Currently a student at **University of Sriwijaya**, focusing on technology and innovation.
-- 🌱 **Passionate Learner**: Excited to dive into new knowledge, explore innovative ideas, and expand my skill set.
-- 🏸 **Fun Fact**: When I'm not coding, you’ll find me on the badminton court!
-- 🥅 **2025 Goals**: Aim for excellence, create impactful projects, and grow my professional network!
+- 🎓 **Fresh Graduate** from **University of Sriwijaya**, passionate about digital innovation & software development.
+- 💻 Experienced in **Laravel**, **React**, **PHP**, and modern web technologies.
+- 🌱 Always learning new tools, frameworks, and exploring AI + data-driven solutions.
+- 🏸 **Fun Fact**: Outside of tech, I enjoy playing badminton to stay sharp and energized.
+- 🚀 **2025 Goals**: Build impactful solutions, contribute to open source, and grow professionally!
 
 ---
 
-## 📫 Connect with Me
+## 🌐 Connect with Me
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rizky_amalsyah)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rizky-amalsyah17/)
@@ -27,7 +32,7 @@
 
 ---
 
-## 🚀 Languages & Tools
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -44,4 +49,14 @@
 
 ---
 
-Thank you for visiting! 😊 Feel free to connect and let's make a difference together!
+## 📂 Featured Projects
+> ✨ You can add links to your best repositories here:
+- 📊 **Trade Analytics Dashboard** – [View repo](#)
+- 🩺 **Health Clustering App (K-Means)** – [View repo](#)
+- 📋 **Training Registration System** – [View repo](#)
+
+---
+
+> *“Great things are done by a series of small things brought together.” – Vincent Van Gogh*
+
+Thanks for stopping by! 🙌 Feel free to connect and collaborate!
